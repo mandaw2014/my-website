@@ -61,13 +61,16 @@ body, html {
     position: relative;
     top: -130px;
 }
+
+#btn {
+    position: relative;
+    top: -130px;
+}
   
 .btn {
     font-weight: 700;
     border-radius: 300px;
     text-transform: uppercase;
-    position: relative;
-    top: -130px;
 }
   
 .btn-primary {
