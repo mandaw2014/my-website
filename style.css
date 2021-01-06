@@ -23,7 +23,7 @@ body, html {
     color: white;
     font-size: 25px;
     position: relative;
-    top: -100px;
+    top: -150px;
 }
 
 #github {
@@ -31,6 +31,8 @@ body, html {
     height: 50px;
     border-radius: 50%;
     transition: all 500ms;
+    position: relative;
+    top: -130px;
 }
 
 #github:hover {
@@ -46,6 +48,8 @@ body, html {
     height: 50px;
     border-radius: 50%;
     transition: all 500ms;
+    position: relative;
+    top: -130px;
 }
 
 #insta:hover {
@@ -53,13 +57,17 @@ body, html {
 }
 
 #home {
-    font-size: 50px;
+    font-size: 30px;
+    position: relative;
+    top: -130px;
 }
   
 .btn {
     font-weight: 700;
     border-radius: 300px;
     text-transform: uppercase;
+    position: relative;
+    top: -130px;
 }
   
 .btn-primary {
